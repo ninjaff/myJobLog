@@ -35,6 +35,8 @@ scrape_configs:
 ### run
 ```bash
 ./prometheus --config.file=prometheus.yml
+
+usr/local/prometheus/prometheus --config.file=prometheus.yml --web.enable-lifecycle --web.external-url= http://127.0.0.1:9090 --storage.tsdb.path=/data1/prometheus/data &
 ```
 ### Hot Reload
 https://songjiayang.gitbooks.io/prometheus/content/qa/hotreload.html
