@@ -36,7 +36,11 @@ scrape_configs:
 ```bash
 ./prometheus --config.file=prometheus.yml
 ```
-
+### Hot Reload
+https://songjiayang.gitbooks.io/prometheus/content/qa/hotreload.html
+```bash
+curl -X POST http://localdns:9090/-/reload 
+```
 ### demo
 ```bash
 # Fetch the client library code and compile example.
