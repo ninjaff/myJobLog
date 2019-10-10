@@ -20,6 +20,8 @@ cd alertmanager-x.x.x.linux-amd64
 ./alertmanager --config.file=alertmanager.yml
 ```
 
+http://localhost:9093
+
 ### configer rules
 vi /etc/prometheus/alert.rules
 ```yaml
