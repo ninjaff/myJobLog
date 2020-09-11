@@ -4,7 +4,7 @@ date: 2020-09-11 12:45:18
 tags: [swagger, node]
 ---
 
-### ENV Configer
+### ENV Configure
 pkg install node
 node -v
 npm -v
@@ -12,10 +12,10 @@ mkdir node-express-swagger
 cd node-express-swagger
 npm install express
 
-### Swagger Configer
+### Swagger Configure
 git clone https://github.com/swagger-api/swagger-ui.git
 
-### Server Configer && Run
+### Server Configure && Run
 cp -r swagger-ui.git/dist static
 cat server.js
 ```
