@@ -1,7 +1,9 @@
 ---
 title: prometheus
+tags:
+  - prometheus
+abbrlink: 54102
 date: 2019-08-27 16:00:49
-tags: [prometheus]
 ---
 ### download bin
 https://prometheus.io/download

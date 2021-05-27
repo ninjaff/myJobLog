@@ -1,7 +1,11 @@
 ---
 title: mysql-exporter.md
+tags:
+  - prometheus
+  - exporter
+  - mysql
+abbrlink: 31980
 date: 2019-08-26 18:18:20
-tags: [prometheus, exporter, mysql]
 ---
 
 ### download

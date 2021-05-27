@@ -1,7 +1,10 @@
 ---
 title: prometheus-alertManager
+tags:
+  - prometheus
+  - alertManager
+abbrlink: 8911
 date: 2019-08-28 08:20:00
-tags: [prometheus, alertManager]
 ---
 ### install 
 

@@ -1,7 +1,10 @@
 ---
 title: swagger-node-express-server
+tags:
+  - swagger
+  - node
+abbrlink: 9209
 date: 2020-09-11 12:45:18
-tags: [swagger, node]
 ---
 
 ### ENV Configure
